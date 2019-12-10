@@ -26,8 +26,8 @@ How to download Numpy:
 - https://docs.scipy.org/doc/numpy/user/install.html
 
 # AUTHORS
--Jamal Lartey
--Daniel Amissah
--Malik Abdul
--Jason Garshong
+- Jamal Lartey
+- Daniel Amissah
+- Malik Abdul
+- Jason Garshong
 
